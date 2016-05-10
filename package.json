@@ -1,0 +1,24 @@
+{
+  "name": "kb",
+  "version": "0.0.1",
+  "description": "KB over API",
+  "main": "app.js",
+  "dependencies":{"express":">=4.13.4","mongodb":">=2.1"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ra-hul/tld-kb.git"
+  },
+  "keywords": [
+    "kb"
+  ],
+  "author": "Rahul Gonnabattula",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ra-hul/tld-kb/issues"
+  },
+  "homepage": "https://github.com/ra-hul/tld-kb#readme"
+}
